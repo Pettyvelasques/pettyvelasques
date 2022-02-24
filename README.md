@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pettyvelasques&style=plastic&label=Stalker+visits" alt="pettyvelasques" /> </p>
 
-<p align-content="space-evenly">
+<p justify-content="space-evenly">
   <a href="https://instagram.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pettyvelasques" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/patrick-velasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick-velasques" height="30" width="30" /></a>
   <a href="https://facebook.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pettyvelasques" height="30" width="30" /></a>
