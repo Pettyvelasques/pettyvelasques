@@ -1,14 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pettyvelasques&style=plastic&label=Stalker+visits" alt="pettyvelasques" /> </p>
 
-<p align="center">
-<a href="https://instagram.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pettyvelasques" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/patrick-velasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick-velasques" height="30" width="30" /></a>
-<a href="https://facebook.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pettyvelasques" height="30" width="30" /></a>
+<p align-content="space-evenly">
+  <a href="https://instagram.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pettyvelasques" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/patrick-velasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick-velasques" height="30" width="30" /></a>
+  <a href="https://facebook.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pettyvelasques" height="30" width="30" /></a>
   
-  
+
 </p>
-<h1 align="center">👋 Olá! Eu sou o Patrick Velasques</h1>
-<h3 align="center"> Estudante de ADS em transição de carreira. Atualmente aprimorando meus conhecimentos em ReactJs e SQL e casualmente participando de Bootcamps em plataformas independentes</h3>
+  <h1 align="center">👋 Olá! Eu sou o Patrick Velasques</h1>
+  <h3 align="center"> Estudante de ADS em transição de carreira. Atualmente aprimorando meus conhecimentos em ReactJs e SQL e casualmente participando de Bootcamps em plataformas independentes</h3>
 
 <div align-content="space-evenly">
   <a href="https://github.com/pettyvelasques">
