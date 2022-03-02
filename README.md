@@ -9,7 +9,7 @@
   <a href="https://facebook.com/pettyvelasques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pettyvelasques" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Olá! Eu sou o Patrick Velasques</h1>
+<h1 align="center">Olá, eu sou o Patrick Velasques</h1>
 <h4 align="center"> Estudante de ADS em transição de carreira. Atualmente aprimorando meus conhecimentos em ReactJs e SQL e casualmente participando de Bootcamps em plataformas independentes</h4>
 
 <div align="center">
