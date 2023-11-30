@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Olá, eu sou o Patrick Velasques</h1>
-<h4 align="center"> Mecânico de Motocicletas em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech e estudando por conta própria para aprimorar meus conhecimentos</h4>
+<h4 align="center">Profissional em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech. Investindo em estudos autodidatas para aprimorar minhas habilidades.</h4>
 
 <div align="center">
   <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=pettyvelasques&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
   
