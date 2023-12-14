@@ -26,7 +26,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
-  
-  
-  <a>![Snake animation](https://github.com/Pettyvelasques/pettyvelasques/blob/output/github-contribution-grid-snake.svg)</a>
 </p>
