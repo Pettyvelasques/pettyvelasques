@@ -10,7 +10,8 @@
 </p>
 
 <h1 align="center">Olá, eu sou o Patrick Velasques</h1>
-<h4 align="center">Profissional em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech. Investindo em estudos autodidatas para aprimorar minhas habilidades.</h4>
+<h4 align="center">Aluno matriculado no curso de Análise e Desenvolvimento de Sistemas na SP Tech, exerço a função de Estagiário Full-Stack na Rappi / Box Delivery.</br>
+Paralelamente, dedico-me a estudos independentes para a constante melhoria de minhas habilidades e competências.</h4>
 
 <div align="center">
   <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=pettyvelasques&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
