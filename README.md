@@ -11,7 +11,7 @@
 
 <h1 align="center">Olá, eu sou o Patrick Velasques</h1>
 <h4 align="center">Estudante do curso de Análise e Desenvolvimento de Sistemas na SP Tech, atualmente exerço a função de Desenvolvedor Junior na IRTrade.</br>
-Paralelamente, dedico-me a estudos independentes para a constante melhoria de minhas habilidades e competências.</h4>
+Em paralelo, me dedico a estudos independentes para aperfeiçoar minhas habilidades e competências.</h4>
 
 <div align="center">
   <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=pettyvelasques&show_icons=true&theme=default&include_all_commits=true&count_private=false"/></a>
