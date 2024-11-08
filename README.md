@@ -15,7 +15,7 @@ Em paralelo, me dedico a estudos independentes para aperfeiçoar minhas habilida
 
 <div align="center">
   <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=pettyvelasques&show_icons=true&theme=default&include_all_commits=true&count_private=false"/></a>
-  <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettyvelasques&layout=compact&langs_count=8&theme=default"/></a>
+  <a href="https://github.com/pettyvelasques"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettyvelasques&layout=compact&langs_count=6&theme=default"/></a>
 </div>
 <br/>
 <p align="center">
